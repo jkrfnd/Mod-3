@@ -18,10 +18,10 @@ This contract is written in Solidity and follows the ERC20 token standard, makin
 Installing
 To deploy and interact with the MyToken contract, you will need:
 
--A local Ethereum development environment such as Hardhat or Truffle
--A code editor such as Visual Studio Code
--Node.js and npm (Node Package Manager)
--Metamask or another Ethereum wallet for managing accounts and transactions
+- A local Ethereum development environment such as Hardhat or Truffle
+- A code editor such as Visual Studio Code
+- Node.js and npm (Node Package Manager)
+Metamask or another Ethereum wallet for managing accounts and transactions
 
 ## Help
 
